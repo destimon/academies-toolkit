@@ -1,0 +1,2 @@
+export const ADD_ACADEMIES = "ADD_ACADEMIES";
+export const ADD_FORMDATA = "ADD_FORMDATA";
